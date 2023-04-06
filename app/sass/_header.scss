@@ -1,0 +1,19 @@
+.header {
+  &__inner {
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+}
+
+
+.logo {}
+
+.menu__list {
+  display: flex;
+  gap: 35px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+}
